@@ -1,6 +1,6 @@
 # OPA Proofs Of Concept
 
-This repository is intended as a proofs of concept only! These are *NOT* finished products nor anything more than examples on how OPA *might* handle T4 authorization requests.
+This repository is intended as a proofs of concept only! These are *NOT* finished products nor anything more than examples on how OPA *might* handle authorization requests.
 
 This directory contains POCs for the following scenarios:
 - A stand alone OPA service with a Python server that uses the OPA Compile API and Evaluate API to perform
